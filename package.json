@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:kanekotic/gremlin-js-example.git",
   "author": "kanekotic <alvarojosepl@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gremlin": "^2.6.0",
+    "gremlin-template-string": "^2.0.0"
+  }
 }
